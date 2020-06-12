@@ -1,0 +1,12 @@
+/_build
+/cover
+/deps
+/doc
+/.fetch
+erl_crash.dump
+*.ez
+*.beam
+.elixir_ls/
+/assets/node_modules/
+
+.DS_Store
